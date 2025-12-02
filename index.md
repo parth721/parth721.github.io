@@ -1,3 +1,5 @@
+<button id="theme-toggle" style="float:right; margin:10px;">🌓</button>
+
 # Hi, I'm Partha 👋️
 CSE final yr undergrad
 
@@ -10,3 +12,5 @@ CSE final yr undergrad
 
 ## Connect 
 - ghoshparth630@gmail.com
+
+[📚 Blog](/blog/)
