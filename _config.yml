@@ -8,11 +8,8 @@ author: Partha
 # Theme Settings
 theme: minima
 
-# 💡 Minima Skin Configuration (Automatic Light/Dark Toggle!)
-# The 'auto' skin switches between classic (light) and dark skins 
-# based on the user's system/browser setting (prefers-color-scheme).
 minima:
-  skin: auto
+  skin: dark 
 
 # Navigation links that appear in the header
 header_pages:
