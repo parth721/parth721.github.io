@@ -9,7 +9,7 @@ author: Partha
 theme: minima
 
 minima:
-  skin: dark
+  skin: dark 
 
 # Navigation links that appear in the header
 header_pages:
