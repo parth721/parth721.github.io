@@ -1,12 +1,12 @@
 # Site Settings
-title: My Awesome GitHub Pages Blog
+title: SweetHome
 email: your.email@example.com
 description: > # Site description
   A website using Minima with automatic light/dark mode switching.
 author: Partha
 
 # Theme Settings
-theme: minima
+remote_theme: jekyll/minima
 
 minima:
   skin: dark 
@@ -20,3 +20,4 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
