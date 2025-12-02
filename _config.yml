@@ -10,3 +10,6 @@ plugins:
 
 minima:
   skin: classic
+
+include:
+  - assets/css/style.scss
