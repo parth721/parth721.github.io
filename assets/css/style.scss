@@ -1,0 +1,9 @@
+@import "{{ site.theme }}";
+
+/* Dark mode */
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+a { color: #4ea3ff; }
