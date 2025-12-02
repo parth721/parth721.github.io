@@ -1,8 +1,9 @@
-<button id="theme-toggle" style="float:right; margin:10px;">🌓</button>
+---
+layout: home
+title: Home
+---
 
-# Hi, I'm Partha 👋️
-CSE final yr undergrad
-[📚 Blog](/blogs/)
+## Hi, I'm Partha 👋
 
 ## About me
 - /trying to answer "How Systems work?" 

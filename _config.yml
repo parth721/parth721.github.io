@@ -1,15 +1,25 @@
-title: ""
+# Site Settings
+title: My Awesome GitHub Pages Blog
+email: your.email@example.com
+description: > # Site description
+  A website using Minima with automatic light/dark mode switching.
+author: Your Name
 
-sass:
-  style: compressed
-
+# Theme Settings
 theme: minima
 
+# 💡 Minima Skin Configuration (Automatic Light/Dark Toggle!)
+# The 'auto' skin switches between classic (light) and dark skins 
+# based on the user's system/browser setting (prefers-color-scheme).
+minima:
+  skin: auto
+
+# Navigation links that appear in the header
+header_pages:
+  - index.md
+  - blog.md
+
+# Build settings
 plugins:
   - jekyll-feed
-
-minima:
-  skin: classic
-
-include:
-  - assets/css/style.scss
+  - jekyll-seo-tag
