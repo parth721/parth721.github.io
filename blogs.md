@@ -1,11 +1,20 @@
 ---
 layout: page
 title: Blog
-permalink: /blogs/
+permalink: /blog/
 ---
 
 ## My Latest Articles
 
-This page lists all the posts I have written. Click on a title to read more!
-
-{% include post_list.html %}
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+  {% endfor %}
+</ul>
