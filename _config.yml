@@ -9,7 +9,7 @@ plugins:
   - jekyll-feed
 
 minima:
-  skin: classic
+  skin: dark
 
 include:
   - assets/css/style.scss

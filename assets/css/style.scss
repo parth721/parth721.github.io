@@ -1,21 +1,18 @@
-@import "{{ site.theme }}";
+@use "sass:color";
 
-/* Dark mode */
-body.dark-mode {
+/* provide compatibility functions for code that still calls lighten/darken */
+@function lighten($color, $amount) {
+  @return color.adjust($color, $lightness: $amount);
+}
+@function darken($color, $amount) {
+  @return color.adjust($color, $lightness: -$amount);
+}
+
+/* then load the theme */
+@use "{{ site.theme }}" as *;
+
+/* ...existing custom styles... */
+body {
   background-color: #121212;
   color: #ffffff;
 }
-
-a { color: #4ea3ff; }
-
-/* Respect system dark mode when no explicit preference is stored */
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #121212;
-    color: #ffffff;
-  }
-  a { color: #79b8ff; }
-}
-
-/* Slightly different link color when dark-mode class is active */
-body.dark-mode a { color: #79b8ff; }
