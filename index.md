@@ -2,6 +2,7 @@
 
 # Hi, I'm Partha 👋️
 CSE final yr undergrad
+[📚 Blog](/blogs/)
 
 ## About me
 - /trying to answer "How Systems work?" 
@@ -13,4 +14,3 @@ CSE final yr undergrad
 ## Connect 
 - ghoshparth630@gmail.com
 
-[📚 Blog](/blog/)
