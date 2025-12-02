@@ -1,9 +1,7 @@
 ---
 layout: home
-title: ""
+title: "Hi, I'm Partha 👋"
 ---
-
-## Hi, I'm Partha 👋
 
 ## About me
 - /trying to answer "How Systems work?" 
