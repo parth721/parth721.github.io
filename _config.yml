@@ -1,22 +1,19 @@
-# Site Settings
-title: SweetHome
-email: your.email@example.com
-description: > # Site description
-  A website using Minima with automatic light/dark mode switching.
+# --- Site Metadata ---
+title: My DB
 author: Partha
+email: your.email@example.com
+description: >
+  feel free to explore my knowledge database.
 
-# Theme Settings
 remote_theme: jekyll/minima
 
 minima:
-  skin: dark 
+  skin: auto
 
-# Navigation links that appear in the header
 header_pages:
   - index.md
   - blogs.md
 
-# Build settings
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
