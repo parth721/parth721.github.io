@@ -7,4 +7,4 @@ categories: jekyll tutorial
 
 This is the content of my very first blog post!
 
-I am learning how to use Jekyll, which is a static site generator. This text will appear on the `/blogs/` page and will have its own dedicated page on my site.
+I am learning how to use Jekyll (minima 3.0 theme), which is a static site generator. This text will appear on the `/blog/` page and will have its own dedicated page on my site.

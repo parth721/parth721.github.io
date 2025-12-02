@@ -8,8 +8,8 @@ categories: jekyll tutorial
 Humans by nature flawed & inconsistent creatue; which also make us creative.
 
 There are 2 reasons of Human Error : 
-1. Ignorance : Don't know about the circumstance.
-2. Ineptitude : Inability to apply the knowledge in real-life.
+1. **Ignorance :** Don't know about the circumstance.
+2. **Ineptitude :** Inability to apply the knowledge in real-life.
 
 Avoidable human error during critical hours is expensive. To reduce these Errors USE **Checklist**.
 
