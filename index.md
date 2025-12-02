@@ -2,7 +2,6 @@
 layout: home
 title: "Hi, I'm Partha 👋"
 ---
-
 ## About me
 - /trying to answer "How Systems work?" 
 - Web-Dev-Ops background
