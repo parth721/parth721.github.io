@@ -1,1 +1,12 @@
 title: ""
+
+sass:
+  style: compressed
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: classic
