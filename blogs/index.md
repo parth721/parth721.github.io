@@ -3,8 +3,4 @@ layout: page
 title: Blog
 ---
 
-# Blog Posts
-
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%b %d, %Y"}}
-{% endfor %}
+<!-- Posts listing removed. If you want to show posts elsewhere, re-enable the loop or use a custom include. -->
