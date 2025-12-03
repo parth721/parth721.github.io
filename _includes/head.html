@@ -1,39 +1,19 @@
-{%- comment -%}
-_includes/head.html
-This file should be included by Minima's layouts. It loads MathJax and a small CSS fix.
-{%- endcomment -%}
-
-<!-- MathJax: load v3 and configure inline/block delimiters -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js"
+  onload="renderMathInElement(document.body);"
+  integrity="sha384-mll67QQ7VNO43GdnZ8XSFSePpBClcysLCuvnZj3z5ZRM/w0ZQqx4tU7x6YEO8l9H"
+  crossorigin="anonymous">
+</script>
 <script>
-window.MathJax = {
-  tex: {
-    inlineMath: [['\\(','\\)']],
-    displayMath: [['$$','$$'], ['\\[','\\]']],
-    processEscapes: true
-  },
-  options: {
-    skipHtmlTags: ['script', 'noscript', 'style', 'pre', 'code']
-  }
-};
+document.addEventListener("DOMContentLoaded", function() {
+  renderMathInElement(document.body, {
+    delimiters: [
+      {left: "$$", right: "$$", display: true},
+      {left: "$", right: "$", display: false}
+    ]
+  });
+});
 </script>
 
-<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
-
-<!-- Small CSS to keep MathJax inline size and spacing consistent with Minima -->
-<style>
-/* Keep inline math aligned with text size */
-.mjx-chtml {
-  font-size: 1em;          /* match surrounding text */
-  line-height: inherit;
-}
-/* Block math spacing */
-.mjx-display {
-  margin-top: 0.8em;
-  margin-bottom: 0.8em;
-}
-/* Prevent MathJax from using huge default fonts on mobile */
-@media (max-width: 800px) {
-  .mjx-chtml { font-size: 1em; }
-}
-</style>
 
