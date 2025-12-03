@@ -35,6 +35,8 @@ Eventually, checking GitHub Issues in Minima repo helped. I found someone who so
 
 ---
 
-Links : 
+## Links :
+
 - [issue828](https://github.com/jekyll/minima/issues/828)
 - [readme](https://github.com/jekyll/minima/blob/master/README.md)
+- [add logos](https://lucaf.eu/2025/08/14/minima-custom-icons.html)
