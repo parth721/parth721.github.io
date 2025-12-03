@@ -1,0 +1,8 @@
+- selection
+- cleaning
+- integration
+- tranformation
+- reduction
+- ML model
+- evaluation
+- knowledge interpretetion
