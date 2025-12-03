@@ -1,0 +1,16 @@
+# Ignore the generated site
+_site/
+
+# Ignore local ruby gems (vendor folder)
+vendor/
+
+# Ignore bundler config
+.bundle/
+
+# Ignore Jekyll caches
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# MacOS clutter
+.DS_Store
