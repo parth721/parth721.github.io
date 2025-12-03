@@ -10,5 +10,5 @@ title: "Hi, I'm Partha 👋"
 - Trying to make my knowledge DB accessible
 
 ## Connect 
-- ghoshparth630@gmail.com
+- While social media is great for staying updated, I prefer to avoid it to focus on what truly matters to me. Feel free to drop me an email
 

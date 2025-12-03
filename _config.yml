@@ -10,12 +10,18 @@ markdown: kramdown
 
 kramdown:
   input: GFM
-  #math_engine: mathjax
   parser_block_html: true
   hard_wrap: false
 
 minima:
   skin: auto
+  social_links:
+    - title: myrepository
+      icon: github
+      url: "https://github.com/parth721"
+    - title: myemail
+      icon: at
+      url: "mailto:ghoshparth630@gmail.com"
 
 header_pages:
   - blogs.md
@@ -24,3 +30,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
+

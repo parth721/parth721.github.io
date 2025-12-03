@@ -54,3 +54,15 @@ vendor/
 ```sh
 bundle exec jekyll serve
 ```
+
+---
+
+## Q&A
+
+1. **Differnce between Gem, Ruby, Bundle ?**
+2. **Why package manager are needed to aviod permission issue ?**
+3. **Why echo commands are used here for Gem installation directory ?**
+4. **Why webrick removed from ruby3.0+ but not from jekyll ?**
+
+---
+
