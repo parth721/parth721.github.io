@@ -27,36 +27,36 @@ To correctly evaluate a classification model, we need to understand different pe
 ### **Accuracy**
 > Measures how many predictions are correct overall.
 
-\[
+$$
 \text{Accuracy} = \frac{TP + TN}{TP + TN + FP + FN}
-\]
+$$
 
 ---
 
 ### **Precision**
 > Out of everything the model predicted as positive, how many were actually positive?
 
-\[
+$$
 \text{Precision} = \frac{TP}{TP + FP}
-\]
+$$
 
 ---
 
 ### **Recall (Sensitivity / True Positive Rate)**
 > Out of all actual positive cases, how many did the model correctly identify?
 
-\[
+$$
 \text{Recall} = \frac{TP}{TP + FN}
-\]
+$$
 
 ---
 
 ### **F1-Score**
 > The harmonic mean of Precision and Recall — useful when the dataset is imbalanced.
 
-\[
+$$
 \text{F1} = 2 \times \frac{Precision \times Recall}{Precision + Recall}
-\]
+$$
 
 ---
 
