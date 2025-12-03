@@ -4,7 +4,8 @@ author: Partha
 description: >
   feel free to explore my knowledge database.
 
-remote_theme: jekyll/minima
+#remote_theme: jekyll/minima
+remote_theme : al-folio
 
 markdown: kramdown
 
