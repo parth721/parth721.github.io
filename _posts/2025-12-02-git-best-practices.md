@@ -3,6 +3,7 @@ layout: post
 title: Git Best practices
 date: 2025-12-02 21:00:00 +0530
 categories: jekyll tutorial
+
 ---
 
 ### Git (Version Control)
@@ -207,3 +208,4 @@ categories: jekyll tutorial
 
 - [git playground](https://learngitbranching.js.org/)
 - [ohmygit](https://ohmygit.org/)
+

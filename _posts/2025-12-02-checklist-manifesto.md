@@ -3,6 +3,7 @@ layout: post
 title: Checklist Manifesto
 date: 2025-12-02 20:00:00 +0530
 categories: jekyll tutorial
+
 ---
 
 Humans by nature flawed & inconsistent creatue; which also make us creative.

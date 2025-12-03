@@ -3,6 +3,7 @@ layout: post
 title: Confusion matrix
 date: 2025-12-03 9:00:00 +0530
 categories: jekyll tutorial
+
 ---
 
 While learning Machine Learning, it is common to assume that **accuracy** is the ultimate measure of model performance.  
@@ -71,3 +72,5 @@ Evaluating an ML model requires more than just accuracy.
 Understanding **precision, recall, and F1-score** helps determine whether a model is **reliable, fair, and actually learning**.
 
 ---
+
+
