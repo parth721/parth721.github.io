@@ -6,6 +6,8 @@ description: >
 
 remote_theme: jekyll/minima
 
+markdown: kramdown
+
 minima:
   skin: auto
 
