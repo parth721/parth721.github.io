@@ -6,7 +6,7 @@ description: >
 
 remote_theme: jekyll/minima
 
-markdown: kramdown
+#markdown: kramdown
 
 kramdown:
   input: GFM
