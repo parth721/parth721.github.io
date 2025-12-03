@@ -1,9 +1,9 @@
 ---
-layout: post_math
+layout: post
 title: Confusion matrix
 date: 2025-12-03 9:00:00 +0530
 categories: jekyll tutorial
-
+mathjax: true
 ---
 
 While learning Machine Learning, it is common to assume that **accuracy** is the ultimate measure of model performance.  
