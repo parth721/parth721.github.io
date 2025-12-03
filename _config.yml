@@ -8,6 +8,12 @@ remote_theme: jekyll/minima
 
 markdown: kramdown
 
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  parser_block_html: true
+  hard_wrap: false
+
 minima:
   skin: auto
 

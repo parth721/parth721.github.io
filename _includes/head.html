@@ -1,14 +1,39 @@
-{% include head.html %}
-{% if page.mathjax %}
-  <script>
-    window.MathJax = {
-      tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']],
-        displayMath: [['$$', '$$'], ['\\[', '\\]']]
-      }
-    };
-  </script>
-  <script id="MathJax-script" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-  </script>
-{% endif %}
+{%- comment -%}
+_includes/head.html
+This file should be included by Minima's layouts. It loads MathJax and a small CSS fix.
+{%- endcomment -%}
+
+<!-- MathJax: load v3 and configure inline/block delimiters -->
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\\[','\\]']],
+    processEscapes: true
+  },
+  options: {
+    skipHtmlTags: ['script', 'noscript', 'style', 'pre', 'code']
+  }
+};
+</script>
+
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
+<!-- Small CSS to keep MathJax inline size and spacing consistent with Minima -->
+<style>
+/* Keep inline math aligned with text size */
+.mjx-chtml {
+  font-size: 1em;          /* match surrounding text */
+  line-height: inherit;
+}
+/* Block math spacing */
+.mjx-display {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+/* Prevent MathJax from using huge default fonts on mobile */
+@media (max-width: 800px) {
+  .mjx-chtml { font-size: 1em; }
+}
+</style>
+
