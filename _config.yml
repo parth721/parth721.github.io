@@ -6,11 +6,11 @@ description: >
 
 remote_theme: jekyll/minima
 
-#markdown: kramdown
+markdown: kramdown
 
 kramdown:
   input: GFM
-  math_engine: mathjax
+  #math_engine: mathjax
   parser_block_html: true
   hard_wrap: false
 
