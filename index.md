@@ -10,5 +10,5 @@ title: "Hi, I'm Partha 👋"
 - Trying to make my knowledge DB accessible
 
 ## Connect 
-- While social media is great for staying updated, I prefer to avoid it to focus on what truly matters to me. Feel free to drop me an email
+- While social media is great for staying updated, I prefer to avoid it to focus on what truly matters to me. Feel free to connect via signal/email.
 

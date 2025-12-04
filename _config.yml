@@ -22,6 +22,9 @@ minima:
     - title: email
       icon: inbox
       url: "mailto:ghoshparth630@gmail.com"
+    - title: signal-messenger
+      icon: signal-messenger
+      url: "https://signal.me/#eu/5KdE4BZ7EwSvqMcuQtP5RGpIB-0a26ytbaXJNuEHGm0B5IiB9L9IpZ8ZWXoeJDl0"
 
 header_pages:
   - blogs.md
