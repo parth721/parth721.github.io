@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll Setup
 date: 2025-12-02 10:00:00 +0530
-categories: jekyll tutorial
+categories: experience
 ---
 Device : Ubuntu25.04
 

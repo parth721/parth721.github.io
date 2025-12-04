@@ -2,7 +2,7 @@
 layout: post
 title: My First Post on Jekyll/Minima
 date: 2025-12-02 10:00:00 +0530
-categories: jekyll tutorial
+categories: experience
 ---
 
 This is the content of my very first blog post!

@@ -2,7 +2,7 @@
 layout: post
 title: Amusing ourselves to Death
 date: 2025-12-03 9:00:00 +0530
-categories: jekyll tutorial
+categories: experience
 ---
 
 After the invention of television, the medium of knowledge transfer shifted from **text-based** to **picture-based**.  

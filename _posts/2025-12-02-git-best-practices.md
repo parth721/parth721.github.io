@@ -2,7 +2,7 @@
 layout: post
 title: Git Best practices
 date: 2025-12-02 21:00:00 +0530
-categories: jekyll tutorial
+categories: experience
 
 ---
 
