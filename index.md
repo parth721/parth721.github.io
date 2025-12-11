@@ -12,3 +12,5 @@ title: "Hi, I'm Partha 👋"
 ## Connect 
 - While social media is great for staying updated, I prefer to avoid it to focus on what truly matters to me. Feel free to connect via signal/email.
 
+
+- [My Memories 😽](https://drive.proton.me/urls/1GNYNF96WC#bSpmCGTF5C4H)

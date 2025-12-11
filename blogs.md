@@ -8,7 +8,8 @@ permalink: /blog/
   <small>CATEGORIES</small><br>
   <a href="#cyber">Cyber Security</a> &nbsp;•&nbsp; 
   <a href="#cs">CS Fundamentals</a> &nbsp;•&nbsp; 
-  <a href="#experience">Experience</a>
+  <a href="#experience">Experience</a> &nbsp;•&nbsp;
+  <a href="wellbeing">Welbeing</a>
 </div>
 
 <hr>
@@ -72,6 +73,28 @@ permalink: /blog/
   {% if site.categories.experience %}
     <ul class="post-list">
       {% for post in site.categories.experience %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</div>
+
+<div id="wellbeing" style="margin-bottom: 60px;">
+  <h2>Wellbeing</h2>
+  <p style="font-style: italic; color: #666; font-size: 1.1em;">
+    Life-lessons taught from elders.
+  </p>
+
+  {% if site.categories.wellbeing %}
+    <ul class="post-list">
+      {% for post in site.categories.wellbeing %}
         <li>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
           <h3>
