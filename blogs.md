@@ -9,7 +9,7 @@ permalink: /blog/
   <a href="#cyber">Cyber Security</a> &nbsp;•&nbsp; 
   <a href="#cs">CS Fundamentals</a> &nbsp;•&nbsp; 
   <a href="#experience">Experience</a> &nbsp;•&nbsp;
-  <a href="wellbeing">Welbeing</a>
+  <a href="#wellbeing">Welbeing</a>
 </div>
 
 <hr>
