@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cultural biases in Coorporate - chapter 1
+title: "Bias : Cultural values in Coorporate" 
 date: 2025-12-08 17:00:00 +530
 categories: experience
 ---

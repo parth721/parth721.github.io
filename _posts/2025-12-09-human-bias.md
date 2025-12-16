@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Illusion of the Perfect Moment"
+title: "Bias : The Perfect Moment"
 date: 2025-12-09 6:00:00 +530
 categories: experience
 ---
