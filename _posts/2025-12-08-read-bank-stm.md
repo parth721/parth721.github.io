@@ -19,3 +19,4 @@ Lets understand how to interpret each transactions
 | `AMC ATMCRD` | Annual ATM card Maintainence charge | Yearly ATM fee|
 | `SMS CHRG` | SMS charge (quaterly)  | Quaterly SMS fee| 
 | `CGST/SGST ` | GST charge on sms | GST on SMS |
+| `CPM` | contact updation charge | Phone/email |

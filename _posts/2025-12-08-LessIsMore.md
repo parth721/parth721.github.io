@@ -15,9 +15,13 @@ There is a clear distinction between my **needs** and **wants**. Below I listdow
 | **💪 Fitness** | - Cycling<br> - Kalari<br> - Cardio |
 | **🍎 Diet** | - Dring 4Lt of water<br> - Avoid oily, sugary foods<br> - Eat more Fiber<br> - Take 50g Protein<br> - Eat till 80% full |
 | **🧼 Hygiene** | - Follow the Hygiene blog |
-| **💰 Finance** | - Read bank statement<br> - Make budget: `Income - Saving = Expense` <br> - Insurance policy<br> - Investing (Index/Gold/NR) |
+| **💰 Finance** | - Read bank statement<br> - Make budget: `Income - Saving = Expense` <br> - Insurance policy<br> - Investing (Index/Gold/NR/FD/RD) |
 | **🎶 Music** | - Has a playlist |
 | **📦 Combopack** | - Febbox |
 
 ---
-Links : [youtube](https://youtu.be/v-1-q_5C8qw)
+Links : 
+- [youtube](https://youtu.be/v-1-q_5C8qw)
+- [advice](https://drive.proton.me/urls/C2HATK0QJ4#ushsivX0UrzM)
+- [grandpa's exp]()
+- [state of IN]()
