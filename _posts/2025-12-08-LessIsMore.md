@@ -23,5 +23,8 @@ There is a clear distinction between my **needs** and **wants**. Below I listdow
 Links : 
 - [youtube](https://youtu.be/v-1-q_5C8qw)
 - [advice](https://drive.proton.me/urls/C2HATK0QJ4#ushsivX0UrzM)
-- [grandpa's exp]()
+- [manoj sir's advice](https://drive.proton.me/urls/HSYBGA2ZWG#dy7A6HAqNFtQ)
+- [realism of incentives](https://chat.deepseek.com/share/se4p80abdkdvcavtkl)
+- [how to win](/assets/Ref/caseheavy.pdf)
+- [grandpa's exp](https://drive.proton.me/urls/TPZ25Y9MZR#MUvObPucRrFE)
 - [state of IN]()
