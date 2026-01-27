@@ -1,65 +1,146 @@
 ---
 layout: post
-title: "Modal verb"
+title: "How to form questions"
 date: 2026-01-17 08:00 +530
 categories: experience
 ---
 
-**Modal verbs** are helper verbs used to express **intention, ability, advice, permission, or possibility**.  
-Unlike **be** and **have**, modal verbs are **not strongly linked to tense**. They mainly show the **speaker’s attitude**, not time.
+![alt text](/assets/images/questionTree.png){: style="display:block; margin-left:auto; margin-right:auto; width:80%"}
 
-Common modal verbs:
-- can, could
-- will, would
-- should
-- may, might
-- must
 
----
+Many people try to form questions by **memorizing grammar rules**.  
+That does not work for long.
 
-### Key characteristics of modal verbs
+Instead, always ask **three simple questions in your mind**:
 
-- They are followed by the **base form of the verb**
-- They **do not change** with subject (no *s / es*)
-- Time is understood from **context**, not from the modal itself
+1. Am I asking about a **state** or an **action**?
+2. Is it **present** or **past**?
+3. Does the **result matter now** or not?
+
+This decision tree helps you choose the **correct helping verb** logically.
 
 ---
 
-### Common modal verbs with examples
+#### Step 1: Decide — State or Action
 
-**Can** — ability / permission  
-> I **can** help you.  
-> Can I leave early?
+##### 1️1. Asking about a **State**
 
-**Could** — possibility / polite request  
-> I **could** help you later.  
-> Could you explain this?
+A **state** means:
+- no action
+- only condition, status, or situation
 
-**Will** — decision / promise  
-> I **will** call you tonight.
+Examples of states:
+- availability  
+- completion status  
+- condition  
 
-**Would** — polite or imagined situation  
-> I **would** like some water.
+##### Present State  
+Use: **is / am / are**
 
-**Should** — advice / expectation  
-> You **should** rest now.
+Examples:
+- Is the server up?  
+- Are you free now?
 
-**May** — permission / possibility  
-> You **may** leave early.
+##### Past State  
+Use: **was / were**
 
-**Might** — uncertainty (lower chance)  
-> I **might** be late today.
+Examples:
+- Was the task completed yesterday?  
+- Were you available in the morning?
 
-**Must** — strong necessity  
-> You **must** wear a helmet.
+**Rule:**  
+If there is **no action**, do **not** use *do / did / have*.
 
 ---
 
-### Modal verbs with past meaning
+##### 2. Asking about an **Action**
 
-To talk about **past possibility or assumption**, use:
+An **action** means:
+- something happens
+- someone does something
 
-`modal + have + V3`
+Now decide **time**.
 
-> I **might have missed** your call.  
-> He **could have helped** you.
+---
+
+#### Step 2: If Action → Decide Time
+
+##### A. Present Actions
+
+###### a) Action happening **now**  
+Use: **is / am / are + verb-ing**
+
+Examples:
+- Are you working now?  
+- Is the deployment running?
+
+Use this when the action is **currently in progress**.
+
+---
+
+###### b) Habit or routine  
+Use: **do / does**
+
+Examples:
+- Do you work on weekends?  
+- Does this service restart automatically?
+
+Use this for **regular or repeated actions**.
+
+---
+
+##### B. Past Actions
+
+Now ask one more question.
+
+---
+
+#### Step 3: For Past Action — Does the Result Matter Now?
+
+###### a) Result **matters now**  
+Use: **has / have**
+
+Examples:
+- Have you completed the assignment?  
+- Has the build finished?
+
+Use this when the **current situation depends on the past action**.
+
+---
+
+###### b) Result **does not matter now**  
+Use: **did**
+
+Examples:
+- Did you complete the assignment yesterday?  
+- Did the server restart last night?
+
+Time is finished; result is not important now.
+
+---
+
+###### c) Action happened **before another past action**  
+Use: **had**
+
+Examples:
+- Had you completed the task before the meeting started?  
+- Had the service failed before the alert came?
+
+This is **past before past**.
+
+---
+
+#### One Golden Rule (Very Important)
+
+**Only ONE helping verb comes in a question.**
+
+Wrong:
+- Did you are working?  
+- Does the task is completed?
+
+Correct:
+- Were you working?  
+- Is the task completed?
+
+First decide **state or action**, then choose **only one helping verb**.
+

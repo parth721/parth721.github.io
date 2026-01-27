@@ -26,6 +26,8 @@ A natural English sentence usually follows this order:
 - **How → Where → When** (Details)
 
 
+![In-general sentence structure](/assets/images/image.png){: style="display:block; margin-left:auto; margin-right:auto; width:80%"}
+
 
 #### 2. Level 0: Basic sentence structure
 
@@ -134,7 +136,7 @@ The subject is **“you”**, but it is hidden.
 
 Connectors help us join ideas, but English needs **one clear main clause**.
 
-- **Clause :** A sentence with subject & verb but feels in complete.
+- **Clause :** A sentence with subject & verb but feels incomplete.
 - **main clause :** can be treated as a  sentence. `E.g: I make grammatical mistakes`
 - **dependent clause :** can't be treated as a sentence. `E.g: when I type quickly`
 
@@ -170,33 +172,25 @@ Without a strong main clause, the sentence feels incomplete.
 > **Am I talking about a *point* or an *area*?**
 
 - **Point → `at`**
-- **Area / inside → `in`** 
+- **Invoved / inside → `in`** 
 
 #### Example 
 - At the office. (to my relative/external member)
 - In the office. (to my manager/internal member)
 
 
----
-
-### Final thought
-
-Do not aim for *perfect English*.  
-Aim for **controlled English**.
-
-When the structure is clear, correctness follows naturally.
-
 
 ---
 
 By the end of this section we will learn when to add articles & when not.
 
-**A/An** : If something is general/unknown.
-**The** : If something is specific/known.
+- **A/An** : If something is general/unknown.
+- **The** : If something is specific/known.
 
 **⚠️ Special case:** 
 
-If the word shows a **state** or **time** (home, work, now, today, tomorrow, yesterday),
+If the word shows a **state** or **time** (home, work, now, today, tomorrow, yesterday):
+
 👉 NO ARTICLE
 
 ---
