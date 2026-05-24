@@ -17,7 +17,6 @@ GEM
     addressable (2.8.8)
       public_suffix (>= 2.0.2, < 8.0)
     base64 (0.3.0)
-    bcrypt (3.1.20)
     bigdecimal (3.3.1)
     coffee-script (2.4.1)
       coffee-script-source
@@ -303,9 +302,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  bcrypt
   github-pages
-  nokogiri
   webrick
 
 BUNDLED WITH
