@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Checklist Manifesto
+title: 2026 H1 Achievements ✪
 date: 2026-12-09 20:00:00 +0530
 categories: experience
 
