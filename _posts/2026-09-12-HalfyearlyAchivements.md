@@ -19,7 +19,7 @@ categories: experience
 2. Consistently maintained my discipline & personal standards.
 3. Started actively working on career-growth opportuinities.(THM)
 
-### 💰 Financical Growth:
+### 💰 Financial Growth:
 1. Consistently saved 15-25% of my salary.
 2. Started making more financially sound decisions.
 3. Improved my fashion sense without compromising my financial priorities.
@@ -32,4 +32,4 @@ categories: experience
 4. Read books & watched documentaries to broaden my understanding of the world.
 
 
-> I am Parth, By God's grace I am able to become someone who can improve multiple areas of life at same time without letting one area destroy another. 😎 Soon it will compound & give me unfair advantage, if I maintain my consistency. 🔥
+> I am Parth, By God's grace I am able to become someone who can improve multiple areas of life at same time without letting one area destroy another😎. Soon it will compound & give me unfair advantage, if I maintain my consistency 🔥.
